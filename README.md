@@ -12,7 +12,7 @@ SQLite or your preferred SQL file editor.
 
 ## Executing program
 
-Simple SQL file that can be ran in your preferred code editor (e.g. Visual Studio Code)
+Simple SQL file that can be ran in your preferred SQL client.
 
 ## Future Commits
 
