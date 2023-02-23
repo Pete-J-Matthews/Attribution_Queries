@@ -1,4 +1,4 @@
-# SQL-Attribution_Queries
+# Attribution Queries
 
 A Codecademy project that uses
 
